@@ -1,5 +1,5 @@
 # 🔭 Franck Ndoutoume:
-Experienced full-stack developer skilled in dynamic environments. Expertise in debugging applications and implementing<br>data-driven solutions using Java, JavaScript, TypeScript and more. Effective at communicating technical issues to<br>non-technical audiences, providing actionable recommendations, and meeting project deadlines consistently. Collaborative<br>relationship-builder with stakeholders, staff, and clients.<br><br>
+Experienced full-stack developer skilled in dynamic environments. Expertise in debugging applications and implementing<br>data-driven solutions using Java, JavaScript, TypeScript and more. Effective at communicating technical issues to<br>non-technical audiences, providing actionable recommendations, and meeting project deadlines consistently. <br><br>
 
 
 ## 🌐 Socials:
